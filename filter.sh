@@ -1,6 +1,6 @@
-# @Author: Nopallx
+# @Author: Nopalls
 # @Date:   28-03-2020
-# @Last Modified by: Nopallx
+# @Last Modified by: Nopalls
 
 
 printf "[+] Email List : ${LIGHTCYAN}"
